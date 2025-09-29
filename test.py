@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v9")
+ptnit("Wassup Buddy!! v9")
